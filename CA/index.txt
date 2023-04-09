@@ -1,0 +1,4 @@
+V	230807005058Z		06	unknown	/C=BA/ST=RS/O=ETF/OU=ETF/CN=nemanja/emailAddress=nemanja@mail.com
+R	230807005503Z	230208220701Z,certificateHold	08	unknown	/C=BA/ST=RS/O=ETF/OU=ETF/CN=mika/emailAddress=mika@mail.com
+V	230809012704Z		0C	unknown	/C=BA/ST=RS/O=ETF/OU=ETF/CN=jovan/emailAddress=jovan@mail.com
+V	230809220817Z		0D	unknown	/C=BA/ST=RS/O=ETF/OU=ETF/CN=nk/emailAddress=nk@mail.com

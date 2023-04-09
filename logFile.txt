@@ -1,0 +1,774 @@
+feb 08, 2023 1:40:37 PRE PODNE openssl.OpenSSLCommand execute
+WARNING: *** WARNING : deprecated key derivation used.
+feb 08, 2023 1:40:37 PRE PODNE openssl.OpenSSLCommand execute
+WARNING: Using -iter or -pbkdf2 would be better.
+feb 08, 2023 1:40:37 PRE PODNE openssl.OpenSSLCommand execute
+WARNING: *** WARNING : deprecated key derivation used.
+feb 08, 2023 1:40:37 PRE PODNE openssl.OpenSSLCommand execute
+WARNING: Using -iter or -pbkdf2 would be better.
+feb 08, 2023 1:40:38 PRE PODNE openssl.OpenSSLCommand execute
+WARNING: *** WARNING : deprecated key derivation used.
+feb 08, 2023 1:40:38 PRE PODNE openssl.OpenSSLCommand execute
+WARNING: Using -iter or -pbkdf2 would be better.
+feb 08, 2023 1:40:38 PRE PODNE openssl.OpenSSLCommand execute
+WARNING: *** WARNING : deprecated key derivation used.
+feb 08, 2023 1:40:38 PRE PODNE openssl.OpenSSLCommand execute
+WARNING: Using -iter or -pbkdf2 would be better.
+feb 08, 2023 1:40:38 PRE PODNE openssl.OpenSSLCommand execute
+WARNING: *** WARNING : deprecated key derivation used.
+feb 08, 2023 1:40:38 PRE PODNE openssl.OpenSSLCommand execute
+WARNING: Using -iter or -pbkdf2 would be better.
+feb 08, 2023 1:40:38 PRE PODNE openssl.OpenSSLCommand execute
+WARNING: *** WARNING : deprecated key derivation used.
+feb 08, 2023 1:40:38 PRE PODNE openssl.OpenSSLCommand execute
+WARNING: Using -iter or -pbkdf2 would be better.
+feb 08, 2023 1:40:38 PRE PODNE openssl.OpenSSLCommand execute
+WARNING: *** WARNING : deprecated key derivation used.
+feb 08, 2023 1:40:38 PRE PODNE openssl.OpenSSLCommand execute
+WARNING: Using -iter or -pbkdf2 would be better.
+feb 08, 2023 1:40:38 PRE PODNE openssl.OpenSSLCommand execute
+WARNING: *** WARNING : deprecated key derivation used.
+feb 08, 2023 1:40:38 PRE PODNE openssl.OpenSSLCommand execute
+WARNING: Using -iter or -pbkdf2 would be better.
+feb 08, 2023 1:40:38 PRE PODNE openssl.OpenSSLCommand execute
+WARNING: The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+feb 08, 2023 1:43:42 PRE PODNE openssl.OpenSSLCommand execute
+WARNING: *** WARNING : deprecated key derivation used.
+feb 08, 2023 1:43:42 PRE PODNE openssl.OpenSSLCommand execute
+WARNING: Using -iter or -pbkdf2 would be better.
+feb 08, 2023 1:43:42 PRE PODNE openssl.OpenSSLCommand execute
+WARNING: *** WARNING : deprecated key derivation used.
+feb 08, 2023 1:43:42 PRE PODNE openssl.OpenSSLCommand execute
+WARNING: Using -iter or -pbkdf2 would be better.
+feb 08, 2023 1:43:42 PRE PODNE openssl.OpenSSLCommand execute
+WARNING: *** WARNING : deprecated key derivation used.
+feb 08, 2023 1:43:42 PRE PODNE openssl.OpenSSLCommand execute
+WARNING: Using -iter or -pbkdf2 would be better.
+feb 08, 2023 1:43:42 PRE PODNE openssl.OpenSSLCommand execute
+WARNING: *** WARNING : deprecated key derivation used.
+feb 08, 2023 1:43:42 PRE PODNE openssl.OpenSSLCommand execute
+WARNING: Using -iter or -pbkdf2 would be better.
+feb 08, 2023 1:43:42 PRE PODNE openssl.OpenSSLCommand execute
+WARNING: *** WARNING : deprecated key derivation used.
+feb 08, 2023 1:43:42 PRE PODNE openssl.OpenSSLCommand execute
+WARNING: Using -iter or -pbkdf2 would be better.
+feb 08, 2023 1:43:42 PRE PODNE openssl.OpenSSLCommand execute
+WARNING: The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+feb 08, 2023 1:47:55 PRE PODNE openssl.OpenSSLCommand execute
+WARNING: *** WARNING : deprecated key derivation used.
+feb 08, 2023 1:47:55 PRE PODNE openssl.OpenSSLCommand execute
+WARNING: Using -iter or -pbkdf2 would be better.
+feb 08, 2023 1:47:55 PRE PODNE openssl.OpenSSLCommand execute
+WARNING: *** WARNING : deprecated key derivation used.
+feb 08, 2023 1:47:55 PRE PODNE openssl.OpenSSLCommand execute
+WARNING: Using -iter or -pbkdf2 would be better.
+feb 08, 2023 1:47:55 PRE PODNE openssl.OpenSSLCommand execute
+WARNING: *** WARNING : deprecated key derivation used.
+feb 08, 2023 1:47:55 PRE PODNE openssl.OpenSSLCommand execute
+WARNING: Using -iter or -pbkdf2 would be better.
+feb 08, 2023 1:47:55 PRE PODNE openssl.OpenSSLCommand execute
+WARNING: *** WARNING : deprecated key derivation used.
+feb 08, 2023 1:47:55 PRE PODNE openssl.OpenSSLCommand execute
+WARNING: Using -iter or -pbkdf2 would be better.
+feb 08, 2023 1:47:55 PRE PODNE openssl.OpenSSLCommand execute
+WARNING: The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+feb 08, 2023 1:48:24 PRE PODNE openssl.OpenSSLCommand execute
+WARNING: The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+feb 08, 2023 1:48:25 PRE PODNE openssl.OpenSSLCommand execute
+WARNING: *** WARNING : deprecated key derivation used.
+feb 08, 2023 1:48:25 PRE PODNE openssl.OpenSSLCommand execute
+WARNING: Using -iter or -pbkdf2 would be better.
+feb 08, 2023 1:48:25 PRE PODNE openssl.OpenSSLCommand execute
+WARNING: *** WARNING : deprecated key derivation used.
+feb 08, 2023 1:48:25 PRE PODNE openssl.OpenSSLCommand execute
+WARNING: Using -iter or -pbkdf2 would be better.
+feb 08, 2023 1:48:25 PRE PODNE openssl.OpenSSLCommand execute
+WARNING: *** WARNING : deprecated key derivation used.
+feb 08, 2023 1:48:25 PRE PODNE openssl.OpenSSLCommand execute
+WARNING: Using -iter or -pbkdf2 would be better.
+feb 08, 2023 1:48:25 PRE PODNE openssl.OpenSSLCommand execute
+WARNING: *** WARNING : deprecated key derivation used.
+feb 08, 2023 1:48:25 PRE PODNE openssl.OpenSSLCommand execute
+WARNING: Using -iter or -pbkdf2 would be better.
+feb 08, 2023 1:48:25 PRE PODNE openssl.OpenSSLCommand execute
+WARNING: *** WARNING : deprecated key derivation used.
+feb 08, 2023 1:48:25 PRE PODNE openssl.OpenSSLCommand execute
+WARNING: Using -iter or -pbkdf2 would be better.
+feb 08, 2023 1:48:25 PRE PODNE openssl.OpenSSLCommand execute
+WARNING: *** WARNING : deprecated key derivation used.
+feb 08, 2023 1:48:25 PRE PODNE openssl.OpenSSLCommand execute
+WARNING: Using -iter or -pbkdf2 would be better.
+feb 08, 2023 1:48:25 PRE PODNE openssl.OpenSSLCommand execute
+WARNING: *** WARNING : deprecated key derivation used.
+feb 08, 2023 1:48:25 PRE PODNE openssl.OpenSSLCommand execute
+WARNING: Using -iter or -pbkdf2 would be better.
+feb 08, 2023 1:48:25 PRE PODNE openssl.OpenSSLCommand execute
+WARNING: *** WARNING : deprecated key derivation used.
+feb 08, 2023 1:48:25 PRE PODNE openssl.OpenSSLCommand execute
+WARNING: Using -iter or -pbkdf2 would be better.
+feb 08, 2023 1:49:06 PRE PODNE openssl.OpenSSLCommand execute
+WARNING: The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+feb 08, 2023 1:49:06 PRE PODNE openssl.OpenSSLCommand execute
+WARNING: *** WARNING : deprecated key derivation used.
+feb 08, 2023 1:49:06 PRE PODNE openssl.OpenSSLCommand execute
+WARNING: Using -iter or -pbkdf2 would be better.
+feb 08, 2023 1:49:06 PRE PODNE openssl.OpenSSLCommand execute
+WARNING: *** WARNING : deprecated key derivation used.
+feb 08, 2023 1:49:06 PRE PODNE openssl.OpenSSLCommand execute
+WARNING: Using -iter or -pbkdf2 would be better.
+feb 08, 2023 1:49:06 PRE PODNE openssl.OpenSSLCommand execute
+WARNING: *** WARNING : deprecated key derivation used.
+feb 08, 2023 1:49:06 PRE PODNE openssl.OpenSSLCommand execute
+WARNING: Using -iter or -pbkdf2 would be better.
+feb 08, 2023 1:49:06 PRE PODNE openssl.OpenSSLCommand execute
+WARNING: *** WARNING : deprecated key derivation used.
+feb 08, 2023 1:49:06 PRE PODNE openssl.OpenSSLCommand execute
+WARNING: Using -iter or -pbkdf2 would be better.
+feb 08, 2023 2:01:09 PRE PODNE openssl.OpenSSLCommand execute
+WARNING: Could not open file or uri for loading certificate file from try
+feb 08, 2023 2:01:09 PRE PODNE openssl.OpenSSLCommand execute
+WARNING: 34020000:error:16000069:STORE routines:ossl_store_get0_loader_int:unregistered scheme:crypto\store\store_register.c:237:scheme=file
+feb 08, 2023 2:01:09 PRE PODNE openssl.OpenSSLCommand execute
+WARNING: 34020000:error:80000002:system library:file_open:No such file or directory:providers\implementations\storemgmt\file_store.c:267:calling stat(try)
+feb 08, 2023 2:01:09 PRE PODNE openssl.OpenSSLCommand execute
+WARNING: Unable to load certificate file
+feb 08, 2023 2:01:09 PRE PODNE openssl.OpenSSLCommand execute
+WARNING: Could not open file or uri for loading certificate file from {
+feb 08, 2023 2:01:09 PRE PODNE openssl.OpenSSLCommand execute
+WARNING: 34020000:error:16000069:STORE routines:ossl_store_get0_loader_int:unregistered scheme:crypto\store\store_register.c:237:scheme=file
+feb 08, 2023 2:01:09 PRE PODNE openssl.OpenSSLCommand execute
+WARNING: 34020000:error:80000002:system library:file_open:No such file or directory:providers\implementations\storemgmt\file_store.c:267:calling stat({)
+feb 08, 2023 2:01:09 PRE PODNE openssl.OpenSSLCommand execute
+WARNING: Unable to load certificate file
+feb 08, 2023 2:01:09 PRE PODNE openssl.OpenSSLCommand execute
+WARNING: x509: Use -help for summary.
+feb 08, 2023 2:11:03 PRE PODNE openssl.OpenSSLCommand execute
+WARNING: Using configuration from openssl.cnf
+feb 08, 2023 2:11:03 PRE PODNE openssl.OpenSSLCommand execute
+WARNING: Check that the request matches the signature
+feb 08, 2023 2:11:03 PRE PODNE openssl.OpenSSLCommand execute
+WARNING: Signature ok
+feb 08, 2023 2:11:03 PRE PODNE openssl.OpenSSLCommand execute
+WARNING: Certificate Details:
+feb 08, 2023 2:11:03 PRE PODNE openssl.OpenSSLCommand execute
+WARNING:         Serial Number: 9 (0x9)
+feb 08, 2023 2:11:03 PRE PODNE openssl.OpenSSLCommand execute
+WARNING:         Validity
+feb 08, 2023 2:11:03 PRE PODNE openssl.OpenSSLCommand execute
+WARNING:             Not Before: Feb  8 01:11:03 2023 GMT
+feb 08, 2023 2:11:03 PRE PODNE openssl.OpenSSLCommand execute
+WARNING:             Not After : Aug  9 01:11:03 2023 GMT
+feb 08, 2023 2:11:03 PRE PODNE openssl.OpenSSLCommand execute
+WARNING:         Subject:
+feb 08, 2023 2:11:03 PRE PODNE openssl.OpenSSLCommand execute
+WARNING:             countryName               = BA
+feb 08, 2023 2:11:03 PRE PODNE openssl.OpenSSLCommand execute
+WARNING:             stateOrProvinceName       = RS
+feb 08, 2023 2:11:03 PRE PODNE openssl.OpenSSLCommand execute
+WARNING:             organizationName          = ETF
+feb 08, 2023 2:11:03 PRE PODNE openssl.OpenSSLCommand execute
+WARNING:             organizationalUnitName    = ETF
+feb 08, 2023 2:11:03 PRE PODNE openssl.OpenSSLCommand execute
+WARNING:             commonName                = dzona
+feb 08, 2023 2:11:03 PRE PODNE openssl.OpenSSLCommand execute
+WARNING:             emailAddress              = dzona@mail.com
+feb 08, 2023 2:11:03 PRE PODNE openssl.OpenSSLCommand execute
+WARNING:         X509v3 extensions:
+feb 08, 2023 2:11:03 PRE PODNE openssl.OpenSSLCommand execute
+WARNING:             X509v3 Basic Constraints: 
+feb 08, 2023 2:11:03 PRE PODNE openssl.OpenSSLCommand execute
+WARNING:                 CA:FALSE
+feb 08, 2023 2:11:03 PRE PODNE openssl.OpenSSLCommand execute
+WARNING:             X509v3 Key Usage: 
+feb 08, 2023 2:11:03 PRE PODNE openssl.OpenSSLCommand execute
+WARNING:                 Digital Signature, Data Encipherment
+feb 08, 2023 2:11:03 PRE PODNE openssl.OpenSSLCommand execute
+WARNING:             X509v3 Extended Key Usage: 
+feb 08, 2023 2:11:03 PRE PODNE openssl.OpenSSLCommand execute
+WARNING:                 TLS Web Client Authentication
+feb 08, 2023 2:11:03 PRE PODNE openssl.OpenSSLCommand execute
+WARNING:             Netscape Comment: 
+feb 08, 2023 2:11:03 PRE PODNE openssl.OpenSSLCommand execute
+WARNING:                 OpenSSL Generated Certificate
+feb 08, 2023 2:11:03 PRE PODNE openssl.OpenSSLCommand execute
+WARNING:             X509v3 Subject Key Identifier: 
+feb 08, 2023 2:11:03 PRE PODNE openssl.OpenSSLCommand execute
+WARNING:                 B7:AE:E3:76:0F:07:6A:44:53:20:EB:09:3F:06:1B:DA:42:A3:67:32
+feb 08, 2023 2:11:03 PRE PODNE openssl.OpenSSLCommand execute
+WARNING:             X509v3 Authority Key Identifier: 
+feb 08, 2023 2:11:03 PRE PODNE openssl.OpenSSLCommand execute
+WARNING:                 CE:8A:AB:EF:48:AB:8F:9A:2C:D7:2E:F3:9F:58:2A:7B:5B:85:E1:87
+feb 08, 2023 2:11:03 PRE PODNE openssl.OpenSSLCommand execute
+WARNING:             X509v3 CRL Distribution Points: 
+feb 08, 2023 2:11:03 PRE PODNE openssl.OpenSSLCommand execute
+WARNING:                 Full Name:
+feb 08, 2023 2:11:03 PRE PODNE openssl.OpenSSLCommand execute
+WARNING:                   URI:http://192.168.21.89/rootcrl.pem
+feb 08, 2023 2:11:03 PRE PODNE openssl.OpenSSLCommand execute
+WARNING: Certificate is to be certified until Aug  9 01:11:03 2023 GMT (182 days)
+feb 08, 2023 2:11:03 PRE PODNE openssl.OpenSSLCommand execute
+WARNING: 
+feb 08, 2023 2:11:03 PRE PODNE openssl.OpenSSLCommand execute
+WARNING: Write out database with 1 new entries
+feb 08, 2023 2:11:03 PRE PODNE openssl.OpenSSLCommand execute
+WARNING: Data Base Updated
+feb 08, 2023 2:12:32 PRE PODNE openssl.OpenSSLCommand execute
+WARNING: Using configuration from openssl.cnf
+feb 08, 2023 2:12:32 PRE PODNE openssl.OpenSSLCommand execute
+WARNING: Revoking Certificate 09.
+feb 08, 2023 2:12:32 PRE PODNE openssl.OpenSSLCommand execute
+WARNING: Data Base Updated
+feb 08, 2023 2:12:32 PRE PODNE openssl.OpenSSLCommand execute
+WARNING: Using configuration from openssl.cnf
+feb 08, 2023 2:18:51 PRE PODNE openssl.OpenSSLCommand execute
+WARNING: Using configuration from openssl.cnf
+feb 08, 2023 2:18:51 PRE PODNE openssl.OpenSSLCommand execute
+WARNING: Check that the request matches the signature
+feb 08, 2023 2:18:51 PRE PODNE openssl.OpenSSLCommand execute
+WARNING: Signature ok
+feb 08, 2023 2:18:51 PRE PODNE openssl.OpenSSLCommand execute
+WARNING: Certificate Details:
+feb 08, 2023 2:18:51 PRE PODNE openssl.OpenSSLCommand execute
+WARNING:         Serial Number: 10 (0xa)
+feb 08, 2023 2:18:51 PRE PODNE openssl.OpenSSLCommand execute
+WARNING:         Validity
+feb 08, 2023 2:18:51 PRE PODNE openssl.OpenSSLCommand execute
+WARNING:             Not Before: Feb  8 01:18:51 2023 GMT
+feb 08, 2023 2:18:51 PRE PODNE openssl.OpenSSLCommand execute
+WARNING:             Not After : Aug  9 01:18:51 2023 GMT
+feb 08, 2023 2:18:51 PRE PODNE openssl.OpenSSLCommand execute
+WARNING:         Subject:
+feb 08, 2023 2:18:51 PRE PODNE openssl.OpenSSLCommand execute
+WARNING:             countryName               = BA
+feb 08, 2023 2:18:51 PRE PODNE openssl.OpenSSLCommand execute
+WARNING:             stateOrProvinceName       = RS
+feb 08, 2023 2:18:51 PRE PODNE openssl.OpenSSLCommand execute
+WARNING:             organizationName          = ETF
+feb 08, 2023 2:18:51 PRE PODNE openssl.OpenSSLCommand execute
+WARNING:             organizationalUnitName    = ETF
+feb 08, 2023 2:18:51 PRE PODNE openssl.OpenSSLCommand execute
+WARNING:             commonName                = milan
+feb 08, 2023 2:18:51 PRE PODNE openssl.OpenSSLCommand execute
+WARNING:             emailAddress              = milan@mail.com
+feb 08, 2023 2:18:51 PRE PODNE openssl.OpenSSLCommand execute
+WARNING:         X509v3 extensions:
+feb 08, 2023 2:18:51 PRE PODNE openssl.OpenSSLCommand execute
+WARNING:             X509v3 Basic Constraints: 
+feb 08, 2023 2:18:51 PRE PODNE openssl.OpenSSLCommand execute
+WARNING:                 CA:FALSE
+feb 08, 2023 2:18:51 PRE PODNE openssl.OpenSSLCommand execute
+WARNING:             X509v3 Key Usage: 
+feb 08, 2023 2:18:51 PRE PODNE openssl.OpenSSLCommand execute
+WARNING:                 Digital Signature, Data Encipherment
+feb 08, 2023 2:18:51 PRE PODNE openssl.OpenSSLCommand execute
+WARNING:             X509v3 Extended Key Usage: 
+feb 08, 2023 2:18:51 PRE PODNE openssl.OpenSSLCommand execute
+WARNING:                 TLS Web Client Authentication
+feb 08, 2023 2:18:51 PRE PODNE openssl.OpenSSLCommand execute
+WARNING:             Netscape Comment: 
+feb 08, 2023 2:18:51 PRE PODNE openssl.OpenSSLCommand execute
+WARNING:                 OpenSSL Generated Certificate
+feb 08, 2023 2:18:51 PRE PODNE openssl.OpenSSLCommand execute
+WARNING:             X509v3 Subject Key Identifier: 
+feb 08, 2023 2:18:51 PRE PODNE openssl.OpenSSLCommand execute
+WARNING:                 10:12:85:58:02:54:F8:42:3D:43:D9:50:FC:FB:29:B6:11:B5:EB:29
+feb 08, 2023 2:18:51 PRE PODNE openssl.OpenSSLCommand execute
+WARNING:             X509v3 Authority Key Identifier: 
+feb 08, 2023 2:18:51 PRE PODNE openssl.OpenSSLCommand execute
+WARNING:                 CE:8A:AB:EF:48:AB:8F:9A:2C:D7:2E:F3:9F:58:2A:7B:5B:85:E1:87
+feb 08, 2023 2:18:51 PRE PODNE openssl.OpenSSLCommand execute
+WARNING:             X509v3 CRL Distribution Points: 
+feb 08, 2023 2:18:51 PRE PODNE openssl.OpenSSLCommand execute
+WARNING:                 Full Name:
+feb 08, 2023 2:18:51 PRE PODNE openssl.OpenSSLCommand execute
+WARNING:                   URI:http://192.168.21.89/rootcrl.pem
+feb 08, 2023 2:18:51 PRE PODNE openssl.OpenSSLCommand execute
+WARNING: Certificate is to be certified until Aug  9 01:18:51 2023 GMT (182 days)
+feb 08, 2023 2:18:51 PRE PODNE openssl.OpenSSLCommand execute
+WARNING: 
+feb 08, 2023 2:18:51 PRE PODNE openssl.OpenSSLCommand execute
+WARNING: Write out database with 1 new entries
+feb 08, 2023 2:18:51 PRE PODNE openssl.OpenSSLCommand execute
+WARNING: Data Base Updated
+feb 08, 2023 2:19:37 PRE PODNE openssl.OpenSSLCommand execute
+WARNING: Using configuration from openssl.cnf
+feb 08, 2023 2:19:37 PRE PODNE openssl.OpenSSLCommand execute
+WARNING: Revoking Certificate 0A.
+feb 08, 2023 2:19:37 PRE PODNE openssl.OpenSSLCommand execute
+WARNING: Data Base Updated
+feb 08, 2023 2:19:37 PRE PODNE openssl.OpenSSLCommand execute
+WARNING: Using configuration from openssl.cnf
+feb 08, 2023 2:22:05 PRE PODNE openssl.OpenSSLCommand execute
+WARNING: Using configuration from openssl.cnf
+feb 08, 2023 2:22:05 PRE PODNE openssl.OpenSSLCommand execute
+WARNING: Check that the request matches the signature
+feb 08, 2023 2:22:05 PRE PODNE openssl.OpenSSLCommand execute
+WARNING: Signature ok
+feb 08, 2023 2:22:05 PRE PODNE openssl.OpenSSLCommand execute
+WARNING: Certificate Details:
+feb 08, 2023 2:22:05 PRE PODNE openssl.OpenSSLCommand execute
+WARNING:         Serial Number: 11 (0xb)
+feb 08, 2023 2:22:05 PRE PODNE openssl.OpenSSLCommand execute
+WARNING:         Validity
+feb 08, 2023 2:22:05 PRE PODNE openssl.OpenSSLCommand execute
+WARNING:             Not Before: Feb  8 01:22:05 2023 GMT
+feb 08, 2023 2:22:05 PRE PODNE openssl.OpenSSLCommand execute
+WARNING:             Not After : Aug  9 01:22:05 2023 GMT
+feb 08, 2023 2:22:05 PRE PODNE openssl.OpenSSLCommand execute
+WARNING:         Subject:
+feb 08, 2023 2:22:05 PRE PODNE openssl.OpenSSLCommand execute
+WARNING:             countryName               = BA
+feb 08, 2023 2:22:05 PRE PODNE openssl.OpenSSLCommand execute
+WARNING:             stateOrProvinceName       = RS
+feb 08, 2023 2:22:05 PRE PODNE openssl.OpenSSLCommand execute
+WARNING:             organizationName          = ETF
+feb 08, 2023 2:22:05 PRE PODNE openssl.OpenSSLCommand execute
+WARNING:             organizationalUnitName    = ETF
+feb 08, 2023 2:22:05 PRE PODNE openssl.OpenSSLCommand execute
+WARNING:             commonName                = miha
+feb 08, 2023 2:22:05 PRE PODNE openssl.OpenSSLCommand execute
+WARNING:             emailAddress              = miha@mail.com
+feb 08, 2023 2:22:05 PRE PODNE openssl.OpenSSLCommand execute
+WARNING:         X509v3 extensions:
+feb 08, 2023 2:22:05 PRE PODNE openssl.OpenSSLCommand execute
+WARNING:             X509v3 Basic Constraints: 
+feb 08, 2023 2:22:05 PRE PODNE openssl.OpenSSLCommand execute
+WARNING:                 CA:FALSE
+feb 08, 2023 2:22:05 PRE PODNE openssl.OpenSSLCommand execute
+WARNING:             X509v3 Key Usage: 
+feb 08, 2023 2:22:05 PRE PODNE openssl.OpenSSLCommand execute
+WARNING:                 Digital Signature, Data Encipherment
+feb 08, 2023 2:22:05 PRE PODNE openssl.OpenSSLCommand execute
+WARNING:             X509v3 Extended Key Usage: 
+feb 08, 2023 2:22:05 PRE PODNE openssl.OpenSSLCommand execute
+WARNING:                 TLS Web Client Authentication
+feb 08, 2023 2:22:05 PRE PODNE openssl.OpenSSLCommand execute
+WARNING:             Netscape Comment: 
+feb 08, 2023 2:22:05 PRE PODNE openssl.OpenSSLCommand execute
+WARNING:                 OpenSSL Generated Certificate
+feb 08, 2023 2:22:05 PRE PODNE openssl.OpenSSLCommand execute
+WARNING:             X509v3 Subject Key Identifier: 
+feb 08, 2023 2:22:05 PRE PODNE openssl.OpenSSLCommand execute
+WARNING:                 58:3B:EE:96:3B:FF:10:48:AA:53:41:BF:25:64:E5:63:F0:FB:81:62
+feb 08, 2023 2:22:05 PRE PODNE openssl.OpenSSLCommand execute
+WARNING:             X509v3 Authority Key Identifier: 
+feb 08, 2023 2:22:05 PRE PODNE openssl.OpenSSLCommand execute
+WARNING:                 CE:8A:AB:EF:48:AB:8F:9A:2C:D7:2E:F3:9F:58:2A:7B:5B:85:E1:87
+feb 08, 2023 2:22:05 PRE PODNE openssl.OpenSSLCommand execute
+WARNING:             X509v3 CRL Distribution Points: 
+feb 08, 2023 2:22:05 PRE PODNE openssl.OpenSSLCommand execute
+WARNING:                 Full Name:
+feb 08, 2023 2:22:05 PRE PODNE openssl.OpenSSLCommand execute
+WARNING:                   URI:http://192.168.21.89/rootcrl.pem
+feb 08, 2023 2:22:05 PRE PODNE openssl.OpenSSLCommand execute
+WARNING: Certificate is to be certified until Aug  9 01:22:05 2023 GMT (182 days)
+feb 08, 2023 2:22:05 PRE PODNE openssl.OpenSSLCommand execute
+WARNING: 
+feb 08, 2023 2:22:05 PRE PODNE openssl.OpenSSLCommand execute
+WARNING: Write out database with 1 new entries
+feb 08, 2023 2:22:05 PRE PODNE openssl.OpenSSLCommand execute
+WARNING: Data Base Updated
+feb 08, 2023 2:23:49 PRE PODNE openssl.OpenSSLCommand execute
+WARNING: Using configuration from openssl.cnf
+feb 08, 2023 2:23:49 PRE PODNE openssl.OpenSSLCommand execute
+WARNING: Revoking Certificate 0B.
+feb 08, 2023 2:23:49 PRE PODNE openssl.OpenSSLCommand execute
+WARNING: Data Base Updated
+feb 08, 2023 2:23:49 PRE PODNE openssl.OpenSSLCommand execute
+WARNING: Using configuration from openssl.cnf
+feb 08, 2023 2:27:04 PRE PODNE openssl.OpenSSLCommand execute
+WARNING: Using configuration from openssl.cnf
+feb 08, 2023 2:27:04 PRE PODNE openssl.OpenSSLCommand execute
+WARNING: Check that the request matches the signature
+feb 08, 2023 2:27:04 PRE PODNE openssl.OpenSSLCommand execute
+WARNING: Signature ok
+feb 08, 2023 2:27:04 PRE PODNE openssl.OpenSSLCommand execute
+WARNING: Certificate Details:
+feb 08, 2023 2:27:04 PRE PODNE openssl.OpenSSLCommand execute
+WARNING:         Serial Number: 12 (0xc)
+feb 08, 2023 2:27:04 PRE PODNE openssl.OpenSSLCommand execute
+WARNING:         Validity
+feb 08, 2023 2:27:04 PRE PODNE openssl.OpenSSLCommand execute
+WARNING:             Not Before: Feb  8 01:27:04 2023 GMT
+feb 08, 2023 2:27:04 PRE PODNE openssl.OpenSSLCommand execute
+WARNING:             Not After : Aug  9 01:27:04 2023 GMT
+feb 08, 2023 2:27:04 PRE PODNE openssl.OpenSSLCommand execute
+WARNING:         Subject:
+feb 08, 2023 2:27:04 PRE PODNE openssl.OpenSSLCommand execute
+WARNING:             countryName               = BA
+feb 08, 2023 2:27:04 PRE PODNE openssl.OpenSSLCommand execute
+WARNING:             stateOrProvinceName       = RS
+feb 08, 2023 2:27:04 PRE PODNE openssl.OpenSSLCommand execute
+WARNING:             organizationName          = ETF
+feb 08, 2023 2:27:04 PRE PODNE openssl.OpenSSLCommand execute
+WARNING:             organizationalUnitName    = ETF
+feb 08, 2023 2:27:04 PRE PODNE openssl.OpenSSLCommand execute
+WARNING:             commonName                = jovan
+feb 08, 2023 2:27:04 PRE PODNE openssl.OpenSSLCommand execute
+WARNING:             emailAddress              = jovan@mail.com
+feb 08, 2023 2:27:04 PRE PODNE openssl.OpenSSLCommand execute
+WARNING:         X509v3 extensions:
+feb 08, 2023 2:27:04 PRE PODNE openssl.OpenSSLCommand execute
+WARNING:             X509v3 Basic Constraints: 
+feb 08, 2023 2:27:04 PRE PODNE openssl.OpenSSLCommand execute
+WARNING:                 CA:FALSE
+feb 08, 2023 2:27:04 PRE PODNE openssl.OpenSSLCommand execute
+WARNING:             X509v3 Key Usage: 
+feb 08, 2023 2:27:04 PRE PODNE openssl.OpenSSLCommand execute
+WARNING:                 Digital Signature, Data Encipherment
+feb 08, 2023 2:27:04 PRE PODNE openssl.OpenSSLCommand execute
+WARNING:             X509v3 Extended Key Usage: 
+feb 08, 2023 2:27:04 PRE PODNE openssl.OpenSSLCommand execute
+WARNING:                 TLS Web Client Authentication
+feb 08, 2023 2:27:04 PRE PODNE openssl.OpenSSLCommand execute
+WARNING:             Netscape Comment: 
+feb 08, 2023 2:27:04 PRE PODNE openssl.OpenSSLCommand execute
+WARNING:                 OpenSSL Generated Certificate
+feb 08, 2023 2:27:04 PRE PODNE openssl.OpenSSLCommand execute
+WARNING:             X509v3 Subject Key Identifier: 
+feb 08, 2023 2:27:04 PRE PODNE openssl.OpenSSLCommand execute
+WARNING:                 F1:08:61:B2:6D:09:68:87:1D:94:6A:37:87:D6:BB:DF:B4:42:AF:5C
+feb 08, 2023 2:27:04 PRE PODNE openssl.OpenSSLCommand execute
+WARNING:             X509v3 Authority Key Identifier: 
+feb 08, 2023 2:27:04 PRE PODNE openssl.OpenSSLCommand execute
+WARNING:                 CE:8A:AB:EF:48:AB:8F:9A:2C:D7:2E:F3:9F:58:2A:7B:5B:85:E1:87
+feb 08, 2023 2:27:04 PRE PODNE openssl.OpenSSLCommand execute
+WARNING:             X509v3 CRL Distribution Points: 
+feb 08, 2023 2:27:04 PRE PODNE openssl.OpenSSLCommand execute
+WARNING:                 Full Name:
+feb 08, 2023 2:27:04 PRE PODNE openssl.OpenSSLCommand execute
+WARNING:                   URI:http://192.168.21.89/rootcrl.pem
+feb 08, 2023 2:27:04 PRE PODNE openssl.OpenSSLCommand execute
+WARNING: Certificate is to be certified until Aug  9 01:27:04 2023 GMT (182 days)
+feb 08, 2023 2:27:04 PRE PODNE openssl.OpenSSLCommand execute
+WARNING: 
+feb 08, 2023 2:27:04 PRE PODNE openssl.OpenSSLCommand execute
+WARNING: Write out database with 1 new entries
+feb 08, 2023 2:27:04 PRE PODNE openssl.OpenSSLCommand execute
+WARNING: Data Base Updated
+feb 08, 2023 2:27:25 PRE PODNE openssl.OpenSSLCommand execute
+WARNING: Using configuration from openssl.cnf
+feb 08, 2023 2:27:25 PRE PODNE openssl.OpenSSLCommand execute
+WARNING: Revoking Certificate 0C.
+feb 08, 2023 2:27:25 PRE PODNE openssl.OpenSSLCommand execute
+WARNING: Data Base Updated
+feb 08, 2023 2:27:25 PRE PODNE openssl.OpenSSLCommand execute
+WARNING: Using configuration from openssl.cnf
+feb 08, 2023 2:27:36 PRE PODNE openssl.OpenSSLCommand execute
+WARNING: Using configuration from openssl.cnf
+feb 08, 2023 11:02:47 PO PODNE openssl.OpenSSLCommand execute
+WARNING: *** WARNING : deprecated key derivation used.
+feb 08, 2023 11:02:47 PO PODNE openssl.OpenSSLCommand execute
+WARNING: Using -iter or -pbkdf2 would be better.
+feb 08, 2023 11:02:47 PO PODNE openssl.OpenSSLCommand execute
+WARNING: *** WARNING : deprecated key derivation used.
+feb 08, 2023 11:02:47 PO PODNE openssl.OpenSSLCommand execute
+WARNING: Using -iter or -pbkdf2 would be better.
+feb 08, 2023 11:02:47 PO PODNE openssl.OpenSSLCommand execute
+WARNING: *** WARNING : deprecated key derivation used.
+feb 08, 2023 11:02:47 PO PODNE openssl.OpenSSLCommand execute
+WARNING: Using -iter or -pbkdf2 would be better.
+feb 08, 2023 11:02:47 PO PODNE openssl.OpenSSLCommand execute
+WARNING: *** WARNING : deprecated key derivation used.
+feb 08, 2023 11:02:47 PO PODNE openssl.OpenSSLCommand execute
+WARNING: Using -iter or -pbkdf2 would be better.
+feb 08, 2023 11:02:48 PO PODNE openssl.OpenSSLCommand execute
+WARNING: *** WARNING : deprecated key derivation used.
+feb 08, 2023 11:02:48 PO PODNE openssl.OpenSSLCommand execute
+WARNING: Using -iter or -pbkdf2 would be better.
+feb 08, 2023 11:02:48 PO PODNE openssl.OpenSSLCommand execute
+WARNING: *** WARNING : deprecated key derivation used.
+feb 08, 2023 11:02:48 PO PODNE openssl.OpenSSLCommand execute
+WARNING: Using -iter or -pbkdf2 would be better.
+feb 08, 2023 11:02:48 PO PODNE openssl.OpenSSLCommand execute
+WARNING: *** WARNING : deprecated key derivation used.
+feb 08, 2023 11:02:48 PO PODNE openssl.OpenSSLCommand execute
+WARNING: Using -iter or -pbkdf2 would be better.
+feb 08, 2023 11:02:48 PO PODNE openssl.OpenSSLCommand execute
+WARNING: *** WARNING : deprecated key derivation used.
+feb 08, 2023 11:02:48 PO PODNE openssl.OpenSSLCommand execute
+WARNING: Using -iter or -pbkdf2 would be better.
+feb 08, 2023 11:02:48 PO PODNE openssl.OpenSSLCommand execute
+WARNING: The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+feb 08, 2023 11:03:51 PO PODNE openssl.OpenSSLCommand execute
+WARNING: The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+feb 08, 2023 11:03:51 PO PODNE openssl.OpenSSLCommand execute
+WARNING: *** WARNING : deprecated key derivation used.
+feb 08, 2023 11:03:51 PO PODNE openssl.OpenSSLCommand execute
+WARNING: Using -iter or -pbkdf2 would be better.
+feb 08, 2023 11:03:51 PO PODNE openssl.OpenSSLCommand execute
+WARNING: *** WARNING : deprecated key derivation used.
+feb 08, 2023 11:03:51 PO PODNE openssl.OpenSSLCommand execute
+WARNING: Using -iter or -pbkdf2 would be better.
+feb 08, 2023 11:03:51 PO PODNE openssl.OpenSSLCommand execute
+WARNING: *** WARNING : deprecated key derivation used.
+feb 08, 2023 11:03:51 PO PODNE openssl.OpenSSLCommand execute
+WARNING: Using -iter or -pbkdf2 would be better.
+feb 08, 2023 11:03:51 PO PODNE openssl.OpenSSLCommand execute
+WARNING: *** WARNING : deprecated key derivation used.
+feb 08, 2023 11:03:51 PO PODNE openssl.OpenSSLCommand execute
+WARNING: Using -iter or -pbkdf2 would be better.
+feb 08, 2023 11:03:51 PO PODNE openssl.OpenSSLCommand execute
+WARNING: *** WARNING : deprecated key derivation used.
+feb 08, 2023 11:03:51 PO PODNE openssl.OpenSSLCommand execute
+WARNING: Using -iter or -pbkdf2 would be better.
+feb 08, 2023 11:03:51 PO PODNE openssl.OpenSSLCommand execute
+WARNING: *** WARNING : deprecated key derivation used.
+feb 08, 2023 11:03:51 PO PODNE openssl.OpenSSLCommand execute
+WARNING: Using -iter or -pbkdf2 would be better.
+feb 08, 2023 11:03:52 PO PODNE openssl.OpenSSLCommand execute
+WARNING: *** WARNING : deprecated key derivation used.
+feb 08, 2023 11:03:52 PO PODNE openssl.OpenSSLCommand execute
+WARNING: Using -iter or -pbkdf2 would be better.
+feb 08, 2023 11:03:52 PO PODNE openssl.OpenSSLCommand execute
+WARNING: *** WARNING : deprecated key derivation used.
+feb 08, 2023 11:03:52 PO PODNE openssl.OpenSSLCommand execute
+WARNING: Using -iter or -pbkdf2 would be better.
+feb 08, 2023 11:07:01 PO PODNE openssl.OpenSSLCommand execute
+WARNING: Using configuration from openssl.cnf
+feb 08, 2023 11:07:01 PO PODNE openssl.OpenSSLCommand execute
+WARNING: Revoking Certificate 08.
+feb 08, 2023 11:07:01 PO PODNE openssl.OpenSSLCommand execute
+WARNING: Data Base Updated
+feb 08, 2023 11:07:01 PO PODNE openssl.OpenSSLCommand execute
+WARNING: Using configuration from openssl.cnf
+feb 08, 2023 11:08:17 PO PODNE openssl.OpenSSLCommand execute
+WARNING: Using configuration from openssl.cnf
+feb 08, 2023 11:08:17 PO PODNE openssl.OpenSSLCommand execute
+WARNING: Check that the request matches the signature
+feb 08, 2023 11:08:17 PO PODNE openssl.OpenSSLCommand execute
+WARNING: Signature ok
+feb 08, 2023 11:08:17 PO PODNE openssl.OpenSSLCommand execute
+WARNING: Certificate Details:
+feb 08, 2023 11:08:17 PO PODNE openssl.OpenSSLCommand execute
+WARNING:         Serial Number: 13 (0xd)
+feb 08, 2023 11:08:17 PO PODNE openssl.OpenSSLCommand execute
+WARNING:         Validity
+feb 08, 2023 11:08:17 PO PODNE openssl.OpenSSLCommand execute
+WARNING:             Not Before: Feb  8 22:08:17 2023 GMT
+feb 08, 2023 11:08:17 PO PODNE openssl.OpenSSLCommand execute
+WARNING:             Not After : Aug  9 22:08:17 2023 GMT
+feb 08, 2023 11:08:17 PO PODNE openssl.OpenSSLCommand execute
+WARNING:         Subject:
+feb 08, 2023 11:08:17 PO PODNE openssl.OpenSSLCommand execute
+WARNING:             countryName               = BA
+feb 08, 2023 11:08:17 PO PODNE openssl.OpenSSLCommand execute
+WARNING:             stateOrProvinceName       = RS
+feb 08, 2023 11:08:17 PO PODNE openssl.OpenSSLCommand execute
+WARNING:             organizationName          = ETF
+feb 08, 2023 11:08:17 PO PODNE openssl.OpenSSLCommand execute
+WARNING:             organizationalUnitName    = ETF
+feb 08, 2023 11:08:17 PO PODNE openssl.OpenSSLCommand execute
+WARNING:             commonName                = nk
+feb 08, 2023 11:08:17 PO PODNE openssl.OpenSSLCommand execute
+WARNING:             emailAddress              = nk@mail.com
+feb 08, 2023 11:08:17 PO PODNE openssl.OpenSSLCommand execute
+WARNING:         X509v3 extensions:
+feb 08, 2023 11:08:17 PO PODNE openssl.OpenSSLCommand execute
+WARNING:             X509v3 Basic Constraints: 
+feb 08, 2023 11:08:17 PO PODNE openssl.OpenSSLCommand execute
+WARNING:                 CA:FALSE
+feb 08, 2023 11:08:17 PO PODNE openssl.OpenSSLCommand execute
+WARNING:             X509v3 Key Usage: 
+feb 08, 2023 11:08:17 PO PODNE openssl.OpenSSLCommand execute
+WARNING:                 Digital Signature, Data Encipherment
+feb 08, 2023 11:08:17 PO PODNE openssl.OpenSSLCommand execute
+WARNING:             X509v3 Extended Key Usage: 
+feb 08, 2023 11:08:17 PO PODNE openssl.OpenSSLCommand execute
+WARNING:                 TLS Web Client Authentication
+feb 08, 2023 11:08:17 PO PODNE openssl.OpenSSLCommand execute
+WARNING:             Netscape Comment: 
+feb 08, 2023 11:08:17 PO PODNE openssl.OpenSSLCommand execute
+WARNING:                 OpenSSL Generated Certificate
+feb 08, 2023 11:08:17 PO PODNE openssl.OpenSSLCommand execute
+WARNING:             X509v3 Subject Key Identifier: 
+feb 08, 2023 11:08:17 PO PODNE openssl.OpenSSLCommand execute
+WARNING:                 92:EB:8B:A2:BE:C8:99:FD:97:CB:6F:AB:1E:CE:57:90:CF:2E:BA:60
+feb 08, 2023 11:08:17 PO PODNE openssl.OpenSSLCommand execute
+WARNING:             X509v3 Authority Key Identifier: 
+feb 08, 2023 11:08:17 PO PODNE openssl.OpenSSLCommand execute
+WARNING:                 CE:8A:AB:EF:48:AB:8F:9A:2C:D7:2E:F3:9F:58:2A:7B:5B:85:E1:87
+feb 08, 2023 11:08:17 PO PODNE openssl.OpenSSLCommand execute
+WARNING:             X509v3 CRL Distribution Points: 
+feb 08, 2023 11:08:17 PO PODNE openssl.OpenSSLCommand execute
+WARNING:                 Full Name:
+feb 08, 2023 11:08:17 PO PODNE openssl.OpenSSLCommand execute
+WARNING:                   URI:http://192.168.21.89/rootcrl.pem
+feb 08, 2023 11:08:17 PO PODNE openssl.OpenSSLCommand execute
+WARNING: Certificate is to be certified until Aug  9 22:08:17 2023 GMT (182 days)
+feb 08, 2023 11:08:17 PO PODNE openssl.OpenSSLCommand execute
+WARNING: 
+feb 08, 2023 11:08:17 PO PODNE openssl.OpenSSLCommand execute
+WARNING: Write out database with 1 new entries
+feb 08, 2023 11:08:17 PO PODNE openssl.OpenSSLCommand execute
+WARNING: Data Base Updated
+feb 08, 2023 11:12:18 PO PODNE openssl.OpenSSLCommand execute
+WARNING: *** WARNING : deprecated key derivation used.
+feb 08, 2023 11:12:18 PO PODNE openssl.OpenSSLCommand execute
+WARNING: Using -iter or -pbkdf2 would be better.
+feb 08, 2023 11:12:18 PO PODNE openssl.OpenSSLCommand execute
+WARNING: *** WARNING : deprecated key derivation used.
+feb 08, 2023 11:12:18 PO PODNE openssl.OpenSSLCommand execute
+WARNING: Using -iter or -pbkdf2 would be better.
+feb 08, 2023 11:12:18 PO PODNE openssl.OpenSSLCommand execute
+WARNING: *** WARNING : deprecated key derivation used.
+feb 08, 2023 11:12:18 PO PODNE openssl.OpenSSLCommand execute
+WARNING: Using -iter or -pbkdf2 would be better.
+feb 08, 2023 11:12:18 PO PODNE openssl.OpenSSLCommand execute
+WARNING: *** WARNING : deprecated key derivation used.
+feb 08, 2023 11:12:18 PO PODNE openssl.OpenSSLCommand execute
+WARNING: Using -iter or -pbkdf2 would be better.
+feb 08, 2023 11:12:19 PO PODNE openssl.OpenSSLCommand execute
+WARNING: *** WARNING : deprecated key derivation used.
+feb 08, 2023 11:12:19 PO PODNE openssl.OpenSSLCommand execute
+WARNING: Using -iter or -pbkdf2 would be better.
+feb 08, 2023 11:12:19 PO PODNE openssl.OpenSSLCommand execute
+WARNING: *** WARNING : deprecated key derivation used.
+feb 08, 2023 11:12:19 PO PODNE openssl.OpenSSLCommand execute
+WARNING: Using -iter or -pbkdf2 would be better.
+feb 08, 2023 11:12:19 PO PODNE openssl.OpenSSLCommand execute
+WARNING: *** WARNING : deprecated key derivation used.
+feb 08, 2023 11:12:19 PO PODNE openssl.OpenSSLCommand execute
+WARNING: Using -iter or -pbkdf2 would be better.
+feb 08, 2023 11:12:19 PO PODNE openssl.OpenSSLCommand execute
+WARNING: *** WARNING : deprecated key derivation used.
+feb 08, 2023 11:12:19 PO PODNE openssl.OpenSSLCommand execute
+WARNING: Using -iter or -pbkdf2 would be better.
+feb 08, 2023 11:12:19 PO PODNE openssl.OpenSSLCommand execute
+WARNING: The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+feb 08, 2023 11:12:49 PO PODNE openssl.OpenSSLCommand execute
+WARNING: The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+feb 08, 2023 11:12:49 PO PODNE openssl.OpenSSLCommand execute
+WARNING: *** WARNING : deprecated key derivation used.
+feb 08, 2023 11:12:49 PO PODNE openssl.OpenSSLCommand execute
+WARNING: Using -iter or -pbkdf2 would be better.
+feb 08, 2023 11:12:49 PO PODNE openssl.OpenSSLCommand execute
+WARNING: *** WARNING : deprecated key derivation used.
+feb 08, 2023 11:12:49 PO PODNE openssl.OpenSSLCommand execute
+WARNING: Using -iter or -pbkdf2 would be better.
+feb 08, 2023 11:12:49 PO PODNE openssl.OpenSSLCommand execute
+WARNING: *** WARNING : deprecated key derivation used.
+feb 08, 2023 11:12:49 PO PODNE openssl.OpenSSLCommand execute
+WARNING: Using -iter or -pbkdf2 would be better.
+feb 08, 2023 11:12:49 PO PODNE openssl.OpenSSLCommand execute
+WARNING: *** WARNING : deprecated key derivation used.
+feb 08, 2023 11:12:49 PO PODNE openssl.OpenSSLCommand execute
+WARNING: Using -iter or -pbkdf2 would be better.
+feb 08, 2023 11:12:49 PO PODNE openssl.OpenSSLCommand execute
+WARNING: *** WARNING : deprecated key derivation used.
+feb 08, 2023 11:12:49 PO PODNE openssl.OpenSSLCommand execute
+WARNING: Using -iter or -pbkdf2 would be better.
+feb 08, 2023 11:12:49 PO PODNE openssl.OpenSSLCommand execute
+WARNING: *** WARNING : deprecated key derivation used.
+feb 08, 2023 11:12:49 PO PODNE openssl.OpenSSLCommand execute
+WARNING: Using -iter or -pbkdf2 would be better.
+feb 08, 2023 11:12:49 PO PODNE openssl.OpenSSLCommand execute
+WARNING: F0410000:error:02000068:rsa routines:ossl_rsa_verify:bad signature:crypto\rsa\rsa_sign.c:430:
+feb 08, 2023 11:12:49 PO PODNE openssl.OpenSSLCommand execute
+WARNING: F0410000:error:1C880004:Provider routines:rsa_verify:RSA lib:providers\implementations\signature\rsa_sig.c:774:
+feb 09, 2023 12:59:13 PO PODNE openssl.OpenSSLCommand execute
+WARNING: Could not open file or uri for loading certificate file from mk
+feb 09, 2023 12:59:13 PO PODNE openssl.OpenSSLCommand execute
+WARNING: 8C200000:error:16000069:STORE routines:ossl_store_get0_loader_int:unregistered scheme:crypto\store\store_register.c:237:scheme=file
+feb 09, 2023 12:59:13 PO PODNE openssl.OpenSSLCommand execute
+WARNING: 8C200000:error:80000002:system library:file_open:No such file or directory:providers\implementations\storemgmt\file_store.c:267:calling stat(mk)
+feb 09, 2023 12:59:13 PO PODNE openssl.OpenSSLCommand execute
+WARNING: Unable to load certificate file
+feb 09, 2023 12:59:13 PO PODNE openssl.OpenSSLCommand execute
+WARNING: Could not open file or uri for loading certificate from mk
+feb 09, 2023 12:59:13 PO PODNE openssl.OpenSSLCommand execute
+WARNING: 8C070000:error:16000069:STORE routines:ossl_store_get0_loader_int:unregistered scheme:crypto\store\store_register.c:237:scheme=file
+feb 09, 2023 12:59:13 PO PODNE openssl.OpenSSLCommand execute
+WARNING: 8C070000:error:80000002:system library:file_open:No such file or directory:providers\implementations\storemgmt\file_store.c:267:calling stat(mk)
+feb 09, 2023 12:59:13 PO PODNE openssl.OpenSSLCommand execute
+WARNING: Unable to load certificate
+feb 09, 2023 1:00:18 PO PODNE openssl.OpenSSLCommand execute
+WARNING: The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+feb 09, 2023 1:00:18 PO PODNE openssl.OpenSSLCommand execute
+WARNING: *** WARNING : deprecated key derivation used.
+feb 09, 2023 1:00:18 PO PODNE openssl.OpenSSLCommand execute
+WARNING: Using -iter or -pbkdf2 would be better.
+feb 09, 2023 1:00:18 PO PODNE openssl.OpenSSLCommand execute
+WARNING: *** WARNING : deprecated key derivation used.
+feb 09, 2023 1:00:18 PO PODNE openssl.OpenSSLCommand execute
+WARNING: Using -iter or -pbkdf2 would be better.
+feb 09, 2023 1:00:19 PO PODNE openssl.OpenSSLCommand execute
+WARNING: *** WARNING : deprecated key derivation used.
+feb 09, 2023 1:00:19 PO PODNE openssl.OpenSSLCommand execute
+WARNING: Using -iter or -pbkdf2 would be better.
+feb 09, 2023 1:00:19 PO PODNE openssl.OpenSSLCommand execute
+WARNING: *** WARNING : deprecated key derivation used.
+feb 09, 2023 1:00:19 PO PODNE openssl.OpenSSLCommand execute
+WARNING: Using -iter or -pbkdf2 would be better.
+feb 09, 2023 1:00:19 PO PODNE openssl.OpenSSLCommand execute
+WARNING: *** WARNING : deprecated key derivation used.
+feb 09, 2023 1:00:19 PO PODNE openssl.OpenSSLCommand execute
+WARNING: Using -iter or -pbkdf2 would be better.
+feb 09, 2023 1:00:19 PO PODNE openssl.OpenSSLCommand execute
+WARNING: *** WARNING : deprecated key derivation used.
+feb 09, 2023 1:00:19 PO PODNE openssl.OpenSSLCommand execute
+WARNING: Using -iter or -pbkdf2 would be better.
+feb 09, 2023 1:00:19 PO PODNE openssl.OpenSSLCommand execute
+WARNING: 58380000:error:02000068:rsa routines:ossl_rsa_verify:bad signature:crypto\rsa\rsa_sign.c:430:
+feb 09, 2023 1:00:19 PO PODNE openssl.OpenSSLCommand execute
+WARNING: 58380000:error:1C880004:Provider routines:rsa_verify:RSA lib:providers\implementations\signature\rsa_sig.c:774:
+feb 09, 2023 1:01:27 PO PODNE openssl.OpenSSLCommand execute
+WARNING: *** WARNING : deprecated key derivation used.
+feb 09, 2023 1:01:27 PO PODNE openssl.OpenSSLCommand execute
+WARNING: Using -iter or -pbkdf2 would be better.
+feb 09, 2023 1:01:27 PO PODNE openssl.OpenSSLCommand execute
+WARNING: *** WARNING : deprecated key derivation used.
+feb 09, 2023 1:01:27 PO PODNE openssl.OpenSSLCommand execute
+WARNING: Using -iter or -pbkdf2 would be better.
+feb 09, 2023 1:01:27 PO PODNE openssl.OpenSSLCommand execute
+WARNING: *** WARNING : deprecated key derivation used.
+feb 09, 2023 1:01:27 PO PODNE openssl.OpenSSLCommand execute
+WARNING: Using -iter or -pbkdf2 would be better.
+feb 09, 2023 1:01:27 PO PODNE openssl.OpenSSLCommand execute
+WARNING: *** WARNING : deprecated key derivation used.
+feb 09, 2023 1:01:27 PO PODNE openssl.OpenSSLCommand execute
+WARNING: Using -iter or -pbkdf2 would be better.
+feb 09, 2023 1:01:27 PO PODNE openssl.OpenSSLCommand execute
+WARNING: *** WARNING : deprecated key derivation used.
+feb 09, 2023 1:01:27 PO PODNE openssl.OpenSSLCommand execute
+WARNING: Using -iter or -pbkdf2 would be better.
+feb 09, 2023 1:01:27 PO PODNE openssl.OpenSSLCommand execute
+WARNING: *** WARNING : deprecated key derivation used.
+feb 09, 2023 1:01:27 PO PODNE openssl.OpenSSLCommand execute
+WARNING: Using -iter or -pbkdf2 would be better.
+feb 09, 2023 1:01:27 PO PODNE openssl.OpenSSLCommand execute
+WARNING: *** WARNING : deprecated key derivation used.
+feb 09, 2023 1:01:27 PO PODNE openssl.OpenSSLCommand execute
+WARNING: Using -iter or -pbkdf2 would be better.
+feb 09, 2023 1:01:28 PO PODNE openssl.OpenSSLCommand execute
+WARNING: The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+feb 09, 2023 1:01:51 PO PODNE openssl.OpenSSLCommand execute
+WARNING: The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+feb 09, 2023 1:01:51 PO PODNE openssl.OpenSSLCommand execute
+WARNING: *** WARNING : deprecated key derivation used.
+feb 09, 2023 1:01:51 PO PODNE openssl.OpenSSLCommand execute
+WARNING: Using -iter or -pbkdf2 would be better.
+feb 09, 2023 1:01:51 PO PODNE openssl.OpenSSLCommand execute
+WARNING: *** WARNING : deprecated key derivation used.
+feb 09, 2023 1:01:51 PO PODNE openssl.OpenSSLCommand execute
+WARNING: Using -iter or -pbkdf2 would be better.
+feb 09, 2023 1:01:51 PO PODNE openssl.OpenSSLCommand execute
+WARNING: *** WARNING : deprecated key derivation used.
+feb 09, 2023 1:01:51 PO PODNE openssl.OpenSSLCommand execute
+WARNING: Using -iter or -pbkdf2 would be better.
+feb 09, 2023 1:01:51 PO PODNE openssl.OpenSSLCommand execute
+WARNING: *** WARNING : deprecated key derivation used.
+feb 09, 2023 1:01:51 PO PODNE openssl.OpenSSLCommand execute
+WARNING: Using -iter or -pbkdf2 would be better.
+feb 09, 2023 1:01:52 PO PODNE openssl.OpenSSLCommand execute
+WARNING: *** WARNING : deprecated key derivation used.
+feb 09, 2023 1:01:52 PO PODNE openssl.OpenSSLCommand execute
+WARNING: Using -iter or -pbkdf2 would be better.
+feb 09, 2023 1:01:52 PO PODNE openssl.OpenSSLCommand execute
+WARNING: *** WARNING : deprecated key derivation used.
+feb 09, 2023 1:01:52 PO PODNE openssl.OpenSSLCommand execute
+WARNING: Using -iter or -pbkdf2 would be better.
+feb 09, 2023 1:01:52 PO PODNE openssl.OpenSSLCommand execute
+WARNING: *** WARNING : deprecated key derivation used.
+feb 09, 2023 1:01:52 PO PODNE openssl.OpenSSLCommand execute
+WARNING: Using -iter or -pbkdf2 would be better.
